@@ -7,7 +7,13 @@ The i-CPCL algorithm(Improved Cooperative and Penalized Competitive Learning Alg
 
 Python with regular pip install packages
 
-## Usage example
+## Usage
+
+```sh
+i-CPCL.py //The improved CPCL algorithm
+l1-CPCL.py //
+npm test
+```
 
 A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
 
