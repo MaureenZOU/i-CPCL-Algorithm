@@ -1,21 +1,11 @@
 # An improved Cooperative and Penalized Competitive Learning Algorithm for Data Clustering
 > This work was introduced in the summer research program supervised by Prof. Cheung Yiu Ming hosted by Hong Kong Baptist University after I finish my first year study in computer science department.
 
-The i-CPCL algorithm(Improved Cooperative and Penalized Competitive Learning Algorithm for Data Clustering) is base on the previous work done by Dr.Hong Jia (CPCL algorithm). It is based on K-means algorithm, however, it could find the cluster centroid and cluster number without the preknowledge of the data distribution. 
+The i-CPCL algorithm(Improved Cooperative and Penalized Competitive Learning Algorithm for Data Clustering) is base on the previous work done by Dr.Hong Jia (CPCL algorithm). It is based on K-means algorithm, however, it could find the cluster centroid and cluster number without the preknowledge of the data distribution. However, for the previous method, although it could find the cluster centroid accurately very often, however, after the seed points get into the same cluster, the converging speed is quite slow. In our method, we find a way to detect the intra-cluster seed points and help them to converge.
 
 ## Installation
 
-OS X & Linux:
-
-```sh
-npm install my-crazy-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
-```
+Python with regular pip install packages
 
 ## Usage example
 
