@@ -8,10 +8,15 @@ The i-CPCL algorithm(Improved Cooperative and Penalized Competitive Learning Alg
 Python with regular pip install packages
 
 ## Usage
+
 i-CPCL.py //The improved CPCL algorithm
+
 l1-CPCL.py //CPCL algorithm with dynamic learning rate
+
 s-CPCL.py //CPCL algorithm with signed network approach
+
 CPCL.py //Original CPCL algorithm
+
 show_***.py //Show the animation of the seed points
 
 ```sh
