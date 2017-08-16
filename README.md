@@ -9,15 +9,15 @@ Python with regular pip install packages
 
 ## Usage
 
-i-CPCL.py //The improved CPCL algorithm
+i-CPCL.py The improved CPCL algorithm
 
-l1-CPCL.py //CPCL algorithm with dynamic learning rate
+l1-CPCL.py CPCL algorithm with dynamic learning rate
 
-s-CPCL.py //CPCL algorithm with signed network approach
+s-CPCL.py CPCL algorithm with signed network approach
 
-CPCL.py //Original CPCL algorithm
+CPCL.py Original CPCL algorithm
 
-show_***.py //Show the animation of the seed points
+show_***.py Show the animation of the seed points
 
 ```sh
 python i-CPCL.py
