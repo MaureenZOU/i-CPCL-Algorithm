@@ -30,10 +30,14 @@ Copare of converging speed of S dataset.
 
 ![alt tag](https://raw.githubusercontent.com/MaureenZOU/i-CPCL-Algorithm/master/sample.png)
 
+
+
 CPU
+
 ![alt tag](https://raw.githubusercontent.com/MaureenZOU/i-CPCL-Algorithm/master/cpu.png)
 
 Epoch
+
 ![alt tag](https://raw.githubusercontent.com/MaureenZOU/i-CPCL-Algorithm/master/epoch.png)
 
 Comparison of i-CPCL, l-CPCL and s-CPCL algorithm with 10 Gaussian clusters.
