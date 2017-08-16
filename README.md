@@ -28,7 +28,7 @@ python show_iCPCL.py
 
 Comparison of i-CPCL, l-CPCL and s-CPCL algorithm with 10 Gaussian clusters.
 
-![alt tag](https://raw.githubusercontent.com/MaureenZOU/i-CPCL-Algorithm/master/compare.png)
+![alt tag](https://raw.githubusercontent.com/MaureenZOU/i-CPCL-Algorithm/master/compare.png = 800x800)
 
 
 ## Release History
