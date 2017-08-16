@@ -27,11 +27,8 @@ python show_iCPCL.py
 ## Experiment Result
 
 Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+![alt tag](https://raw.githubusercontent.com/MaureenZOU/i-CPCL-Algorithm/master/compare.png)
 
-```sh
-make install
-npm test
-```
 
 ## Release History
 
