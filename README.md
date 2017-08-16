@@ -26,7 +26,8 @@ python show_iCPCL.py
 
 ## Experiment Result
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+Comparison of i-CPCL, l-CPCL and s-CPCL algorithm with 10 Gaussian clusters.
+
 ![alt tag](https://raw.githubusercontent.com/MaureenZOU/i-CPCL-Algorithm/master/compare.png)
 
 
